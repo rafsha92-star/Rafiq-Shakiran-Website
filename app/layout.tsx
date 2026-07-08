@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-sans' });
 const spaceGrotesk = Space_Grotesk({ subsets: ['latin'], variable: '--font-display' });
 
 export const metadata: Metadata = {
-  title: 'Professional WordPress Web Developer',
+  title: 'Rafiq Shakiran | Professional WordPress Web Developer',
   description: 'I design and develop modern, fast, SEO-friendly, and conversion-focused WordPress websites that help businesses build credibility, generate leads, and grow online.',
 };
 
